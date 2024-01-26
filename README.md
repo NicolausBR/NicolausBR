@@ -11,4 +11,13 @@ Me chamo Nicolas, 21 anos e busco me desenvolver cada vez mais como um bom progr
 ---
 <a href = "mailto:nicolasperib@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/nicolas-pereira-ribeiro-3577102a9/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+
+## Linguagens e Ferramentas
+---
+<img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg' width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg' width="50" height="50"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg' width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' width="50" height="50"/> &nbsp;
+
