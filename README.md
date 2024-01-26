@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem-vindo(a)! 👾</h1>
 
 Me chamo Nicolas, 21 anos e busco me desenvolver cada vez mais como um bom programador.
-
+<img src="MorganaI.png" width="180" heigth="180" align="right"/>
 - 📖Estudante de Ciências da Computação na UERJ
 - 💼Procurando vagas para desenvolvedor back-end
 - 👨‍💻Atualmente focando em estudar mais sobre C++ e Java
