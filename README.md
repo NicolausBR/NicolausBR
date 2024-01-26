@@ -20,4 +20,5 @@ Me chamo Nicolas, 21 anos e busco me desenvolver cada vez mais como um bom progr
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="50" height="50"/> &nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg' width="50" height="50"/> &nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg' width="50" height="50"/> &nbsp;
 
