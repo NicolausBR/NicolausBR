@@ -9,16 +9,6 @@ Me chamo Nicolas, 21 anos e busco me desenvolver cada vez mais como um bom progr
 
 ## Info e Contato
 ---
-<a href = "mailto:nicolasperib@gmail.com"> <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "mailto:nicolasperib@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/nicolas-pereira-ribeiro-3577102a9/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NicolausBR&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NicolausBR&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolausBR&show_icons=true" />
-</picture>
