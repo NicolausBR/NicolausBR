@@ -21,4 +21,6 @@ Me chamo Nicolas, tenho 22 anos e busco me desenvolver cada vez mais como um bom
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg' width="50" height="50"/> &nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' width="50" height="50"/> &nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg' width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg' width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg' width="50" height="50"/> &nbsp;
 
