@@ -2,9 +2,9 @@
 
 Me chamo Nicolas, tenho 22 anos e busco me desenvolver cada vez mais como um bom programador.
 <img src="MorganaI.png" width="180" heigth="180" align="right"/>
-- 📖Estudante de Ciências da Computação na UERJ
-- 💼Procurando vagas para desenvolvedor back-end
-- 👨‍💻Atualmente focando em estudar mais sobre C++ e Java
+- 📖 Estudante de Ciências da Computação na UERJ
+- 💼 Desenvolvedor Fullstack da Diretoria Geral de Tecnologia da Informação da UERJ
+- 👨‍💻 Atualmente focando em estudar mais sobre C++ e Java
 - 🎮 Fact: Amo jogos e música
 
 ## Info e Contato
