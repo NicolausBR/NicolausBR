@@ -24,4 +24,4 @@ Me chamo Nicolas, tenho 22 anos e busco me desenvolver cada vez mais como um bom
 <img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg' width="50" height="50"/> &nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width="50" height="50"/> &nbsp;
 
-![Snake animation](https://github.com/Nicolausbr/Nicolausbr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NicolausBR/NicolausBR/blob/output/github-contribution-grid-snake.svg)
