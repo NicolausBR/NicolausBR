@@ -1,6 +1,6 @@
 <h1 align="center">Seja bem-vindo(a)! 👾</h1>
 
-Me chamo Nicolas, tenho 22 anos e busco me desenvolver cada vez mais como um bom programador.
+Me chamo Nicolas, tenho 23 anos e busco me desenvolver profissionalmente e pessoalmente a cada dia, almejando uma carreira excepcional como desenvolvedor.
 <img src="MorganaI.png" width="180" heigth="180" align="right"/>
 - 📖 Estudante de Ciências da Computação na UERJ
 - 💼 Desenvolvedor Fullstack da Diretoria Geral de Tecnologia da Informação da UERJ
@@ -14,7 +14,7 @@ Me chamo Nicolas, tenho 22 anos e busco me desenvolver cada vez mais como um bom
 
 ## Linguagens e Ferramentas
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width="50" height="50"/> &nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width="50" height="50"/> &nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg' width="50" height="50"/> &nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg' width="50" height="50"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="50" height="50"/> &nbsp;
